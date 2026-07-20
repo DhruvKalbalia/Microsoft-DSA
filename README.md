@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
