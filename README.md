@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0238-product-of-array-except-self) |
@@ -24,17 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
