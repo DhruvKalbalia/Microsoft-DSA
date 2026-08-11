@@ -4,10 +4,12 @@ public:
         int length = 0;
         int i = s.length()-1;
 
+        //skip remaining whitespaces
         while(i>=0 && s[i]==' '){
             i--;
         }
 
+        //calculates length of the last word
         while(i>=0 && s[i]!=' '){
             length++;
             i--;
