@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0055-jump-game) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0141-linked-list-cycle) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
