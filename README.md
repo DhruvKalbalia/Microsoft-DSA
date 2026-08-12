@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0189-rotate-array) |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
