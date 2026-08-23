@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0383-ransom-note) |
 ## String
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0383-ransom-note) |
 ## Sliding Window
