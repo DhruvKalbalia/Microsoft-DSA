@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0383-ransom-note) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
