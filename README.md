@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0290-word-pattern) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
