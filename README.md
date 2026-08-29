@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0228-summary-ranges) |
@@ -148,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
