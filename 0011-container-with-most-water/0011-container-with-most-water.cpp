@@ -10,11 +10,11 @@ public:
             int width = right - left;
             maxWater = max(maxWater, minHeight*width);
 
-            if (height[left]<height[right])
-            left++;
-
-            else
-            right--;
+            if (height[left]<height[right]){
+                left++;
+            }else{
+                right--;
+            }
         }
         return maxWater;
     }
