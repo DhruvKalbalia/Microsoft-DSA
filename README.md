@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0057-insert-interval) |
@@ -227,5 +228,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
