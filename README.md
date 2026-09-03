@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0226-invert-binary-tree) |
@@ -229,9 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
