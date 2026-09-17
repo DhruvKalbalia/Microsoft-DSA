@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0994-rotting-oranges) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -180,10 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -247,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
