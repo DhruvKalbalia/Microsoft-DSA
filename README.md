@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0475-heaters) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0994-rotting-oranges) |
 ## Two Pointers
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0202-happy-number) |
+| [0475-heaters](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0475-heaters) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0475-heaters) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0475-heaters](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0475-heaters) |
 ## Dynamic Programming
 |  |
 | ------- |
