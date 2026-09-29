@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0054-spiral-matrix) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
