@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0088-merge-sorted-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DhruvKalbalia/Microsoft-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
